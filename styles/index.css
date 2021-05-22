@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: system-ui;
+  color: #2c2e31;
+}  
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+.author {
+  text-align: center
+}
+
+  
+  
